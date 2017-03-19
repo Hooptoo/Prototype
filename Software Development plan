@@ -1,0 +1,18 @@
+Install development tools
+  XX -- 3/18/2017
+Connect pycom via wifi
+  XX -- 3/18/2017
+Connect pycom via development board
+update firmware
+flash onboard LED
+flash LED strip
+add battery charger
+Integrate Hooptoo in package.
+create LED patterns
+add buttons to control patterns
+Add bluetooth connection to pycom board
+Add bluetooth A2DP or HFP with hoopto as audio output.
+Add bluetooth piconet
+Add bluetooth beacon
+Add encryption / security features.
+Add IMU to allow fixed position patterns
